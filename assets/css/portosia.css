@@ -15,6 +15,14 @@ body {
     color: #5a5a5a;
     font-family:"Poppins", serif;
   }
+
+.dots-image{
+  z-index: 1;
+}
+
+.people-image{
+  z-index: 2;
+}
   
   
   /* CUSTOMIZE THE CAROUSEL
